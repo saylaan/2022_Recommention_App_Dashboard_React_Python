@@ -13,7 +13,7 @@ filelock==3.3.0
 Flask==2.0.2
 Flask-Cors==3.0.10
 ipykernel==6.4.1
-ipython==7.28.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 itsdangerous==2.0.1
 jedi==0.18.0
